@@ -1,1 +1,1 @@
-# CIM640-JinqiLi-Assignments
+# CIM640 - JinqiLi - Assignments
