@@ -6,9 +6,9 @@ var y2 = -25;
 var speed2 = 0.2;
 
 function preload() {
-  p1 = loadImage('assests/planet1.png');
-  p2 = loadImage('assests/planet2.png');
-  p3 = loadImage('assests/planet3.png');
+  p1 = loadImage('assets/planet1.png');
+  p2 = loadImage('assets/planet2.png');
+  p3 = loadImage('assets/planet3.png');
 
 }
 
