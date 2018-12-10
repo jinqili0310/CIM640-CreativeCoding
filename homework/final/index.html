@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="p5.min.js"></script>
+    <script src="../addons/p5.dom.min.js"></script>
+    <script src="../addons/p5.sound.min.js"></script>
+    <script src="../addons/p5.dom.js"></script>
+    <script src="libraries/p5.sound.js"></script>
+    <script src="sketch.js"></script>
+    <script src="libraries/quicksettings.js"></script>
+    <script src="libraries/p5.gui.js"></script>
+  </head>
+  <body style="background-color: #2c2828;">
+
+    <div id="sketch-holder">
+      <!-- Our sketch will go here! -->
+    </div>
+    <div align="center">
+      <h2 style="color: #ffffff;" align="center">Welcome to Sailor Moon's world!</h2>
+    <p style="color: #ffffff; font-size: 18px;" align="center">
+      Sailor Moon (美少女戦士セーラームーン) is a Japanese shōjo manga series which was really popular in Asia during 1990s and 2000s.<br>
+      The five main characters are Sailor Moon (Usagi Tsukino 月野 うさぎ), Sailor Mercury (Ami Mizuno 水野 亜美), Sailor Mars (Rei Hino 火野 レイ),<br>
+      Sailor Jupiter (Makoto Kino 木野 まこと), and Sailor Venus (Minako Aino 愛野 美奈子).<br><br>
+      Above are the planets that the characters protect with their colors: pink Moon, blue Mercury, red Mars, green Jupiter, and yellow Venus.<br>
+      You can switch the "type" in "Choose A Planet" to see these beautiful planets and change their positions with "Move The Planet".<br><br>
+      Also, please check <a style="color: pink;" href="https://www.youtube.com/watch?v=2uLUc6p0J60">a clip of "Sailor Moon"</a> showing how normal school girls transform to planet soldiers.
+    </p>
+    </div>
+
+    <audio src="assets/moonlight.mp3" autoplay loop id="moonlight"></audio>
+    <script>
+    var audio = document.getElementById("moonlight");
+    audio.volume = 0.1;
+    </script>
+  </body>
+</html>
