@@ -6,7 +6,7 @@
 * #### The inputs are users’ actions in the two GUIs.
 * #### The outputs are the changes in the type of planets, and the diameter, rotating speed, and location of the planets.
 * #### The target audience for this project is people who are interested in Sailor Moon or any science fiction lovers.
-* #### This project might be displayed on a fan-page of Sailor Moon.
+* #### This project might be displayed on a fanpage of Sailor Moon.
 
 ## 3 potential ideas:
 * #### An animation showing how solar system works
