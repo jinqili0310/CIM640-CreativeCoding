@@ -11,6 +11,6 @@
 * #### An webpage for customizing the virtual planets
 
 ## 3 examples of similar projects or projects that influenced this project:
-* #### Rewind The Red Planet by National Geographic (https://www.nationalgeographic.com/science/2016/11/exploring-mars-map-panorama-pictures/)
-* #### Space Engine (http://spaceengine.org/)
-* #### stars.chromeexperiments.com (http://stars.chromeexperiments.com/)
+* #### [Rewind The Red Planet by National Geographic](https://www.nationalgeographic.com/science/2016/11/exploring-mars-map-panorama-pictures/)
+* #### [Space Engine](http://spaceengine.org/)
+* #### [stars.chromeexperiments.com](http://stars.chromeexperiments.com/)
