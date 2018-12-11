@@ -181,7 +181,7 @@ function summer() {
 function winter() {
   fill('#eab4f8');
   rect(0, 900*0.85, 1440, 900*0.15);
-  image(cloud, 1440*0.7, 900*0.15);
+  image(cloud, 1440*0.8, 900*0.15);
   image(snow, 1440*0.75, y5);
   image(snow, 1440*0.85, y5);
   if(y5 < 900*0.8){
