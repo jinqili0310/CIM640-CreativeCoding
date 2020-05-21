@@ -1,4 +1,6 @@
-# CIM640_JinqiLi_Assignments
+# CIM640-CreativeCoding
+### [Final Project Demo](https://youtu.be/B0IxM3UDrIE)
+
 ## [Homework #1](http://kikijinqili.github.io/CIM640-JinqiLi/homework/hw1/hw1.jpg)
 ## [Homework #2](http://kikijinqili.github.io/CIM640-JinqiLi/homework/hw2/index.html)
 ## [Homework #3](http://kikijinqili.github.io/CIM640-JinqiLi/homework/hw3/index.html)
