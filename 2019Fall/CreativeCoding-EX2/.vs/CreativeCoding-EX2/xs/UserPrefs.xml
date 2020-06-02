@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{16AD196E-248D-EB51-87C8-5ED3978351A4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoveBall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoveBall.cs" Line="34" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CreativeCoding-EX2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MoveBall.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a0f39a4e-c2b3-4101-b2f3-765065b5bc7a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

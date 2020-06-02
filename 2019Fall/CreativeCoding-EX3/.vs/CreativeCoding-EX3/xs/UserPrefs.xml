@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CB74985B-F3C5-407C-BCD9-35B7A6CF3962}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScaleChanger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallGenerator.cs" Line="14" Column="61" />
+      <File FileName="Assets/Scripts/ScaleChanger.cs" Line="27" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CreativeCoding-EX3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ScaleChanger.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CreativeCoding-EX3" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c35f2152-4bd3-4d58-a6e7-60db7f18f684" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

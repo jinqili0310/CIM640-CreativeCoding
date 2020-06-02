@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{13A44563-2EBB-033F-2279-0B67D80E9C50}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlaneTilting.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CountDown.cs" Line="21" Column="22" />
+      <File FileName="Assets/Scripts/ScoreCounter.cs" Line="23" Column="10" />
+      <File FileName="Assets/Scripts/BallCollision.cs" Line="12" Column="53" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="9" Column="25" />
+      <File FileName="Assets/Scripts/ScroreCounterSaftetyNet.cs" Line="23" Column="42" />
+      <File FileName="Assets/Scripts/PlaneTilting.cs" Line="35" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CC-04" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlaneTilting.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="34478069-1f67-45aa-85bb-fc1522c34b87" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

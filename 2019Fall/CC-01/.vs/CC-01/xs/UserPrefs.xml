@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{54A63B94-DA26-1129-CB1C-EF26D5689277}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/counter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/counter.cs" Line="23" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CC-01" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="counter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c947dfb-cf06-4e9d-808b-6c4b8b0809f9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,24 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class UpDown : MonoBehaviour
+{
+    private float speed = 0.2f;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if(transform.position.y < -4 || transform.position.y > 4)
+        {
+            speed = -1 * speed;
+        }
+        transform.position = new Vector3(transform.position.x, transform.position.y + speed, transform.position.z);
+    }
+}

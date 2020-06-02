@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{50A075A9-986C-F65C-FB38-A77E58C3D986}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CheckAnswer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Collision1.cs" Line="24" Column="146" />
+      <File FileName="Assets/Scripts/Collision2.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/CheckAnswer.cs" Line="39" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CreativeCoding-EX6" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CheckAnswer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="399db33b-8dc1-4e12-b7f9-8bb72598448f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

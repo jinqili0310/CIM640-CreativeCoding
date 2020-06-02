@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{901D6382-7021-D26E-AD46-284919BA4A35}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TotalScore.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraControl.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/TotalScore.cs" Line="25" Column="86" />
+      <File FileName="Assets/Scripts/BarrierCollision.cs" Line="32" Column="28" />
+      <File FileName="Assets/Scripts/HideAgainButton.cs" Line="13" Column="48" />
+      <File FileName="Assets/Scripts/StartGame.cs" Line="46" Column="1" />
+      <File FileName="Assets/Scripts/Restart.cs" Line="22" Column="45" />
+      <File FileName="Assets/Scripts/FollowGyro.cs" Line="3" Column="13" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="24" Column="13" />
+      <File FileName="Assets/Scripts/Tilting.cs" Line="50" Column="1" />
+      <File FileName="Assets/Scripts/GyroManager.cs" Line="3" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MidtermProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TotalScore.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e88d9409-31c6-4cf7-9823-64677c3ee41b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
